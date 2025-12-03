@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Interview Preparation Platform**
 
-- 🌱 I’m currently learning and building projects with the **MERN stack**
+- 🌱 I’m currently learning the **MERN stack**
 
-- 👯 I’m looking to collaborate on **open-source frontend projects**
+- 👯 I’m looking to collaborate on **open-source projects**
 
-- 💬 Ask me about **Web Development, and Web Design.**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **soumyaupadhya121@gmail.com**
 
