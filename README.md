@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://i.pinimg.com/1200x/7a/a7/d1/7aa7d1c63a3e6a1d9aab06cb5a26f495.jpg)">
+  <a href="https://i.pinimg.com/1200x/7a/a7/d1/7aa7d1c63a3e6a1d9aab06cb5a26f495.jpg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;MERN%20Stack%20Learner;Building%20Real%20World%20Projects;DSA%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
